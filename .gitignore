@@ -2,7 +2,7 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-data/
+data/*.csv
 .dvc/cache/
 
 .env
